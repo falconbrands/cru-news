@@ -1,0 +1,23 @@
+@import '~bulma';
+
+body {
+  background: #d8d7d7;
+  min-height: 100vh;
+}
+
+h2 {
+  color: #8b724a;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+.logo {
+  padding: 20px 0;
+  background: url('~/assets/logo_cru.png');
+  background-size: cover;
+}
