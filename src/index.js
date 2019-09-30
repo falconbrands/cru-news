@@ -1,3 +1,3 @@
 
-require('./assets/logo_cru.png');
+require('./assets/logo.png');
 require('./styles/index.scss');
